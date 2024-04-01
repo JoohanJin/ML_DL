@@ -1,5 +1,6 @@
 # virtual env
 ai/
 
-# ipynob checkpoint
+# .ipynb_checkpoint
 .ipynb_checkpoints/
+
