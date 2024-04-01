@@ -1,2 +1,6 @@
 # virtual env
 ai/
+
+# .ipynb_checkpoint
+.ipynb_checkpoint/
+
